@@ -1,0 +1,26 @@
+My team is responsible for
+maintaining the operating system of a bunch of computers in
+the fleet of Google. And many of the things that we do
+are done through Python scripts. For example, we have a script that
+keeps the computer up to date that the software is updated everyday and
+that's written in Python. We also have a script that
+checks that the computer doesn't have any specific problems, and
+if there is a problem raises an alert for the user so that the user can take action. That one is also written in Python. We have a bunch of other scripts like that
+that run in the computers of our users that are all written in Python. One of the things I like the most
+about Python is that the code is really readable. You can give a piece of Python
+code to someone that doesn't even know how to program and
+most of the time, they will have at least some
+idea of what is going on. The other thing I like about Python is
+that is comes with a lot of modules that do a lot of the things that
+we want to do already. It's been around for a while. There's a lot of people that have
+contributed all of these modules. So it's very likely that the thing you
+want to do, it's already in a module, and you only have to import it and use it. No computer language is perfect. Every computer language has its
+advantages and disadvantages. In the case of Python, the one thing
+that I find the most annoying is that because it's not a compiled language,
+there could be errors in the code that only gets detected very
+late in the development process. And well, it's not good that all these
+hidden errors could be in the code. It can be mitigated by writing good tests. If you write tests and
+then the tests can test all of the code, even if it's not [INAUDIBLE] every day, then you can be assured that your
+code is working successfully. That's why I think Python is great for writing small scripts that
+are self-contained and not for big software projects that
+have a lot of infrastructure on them.
