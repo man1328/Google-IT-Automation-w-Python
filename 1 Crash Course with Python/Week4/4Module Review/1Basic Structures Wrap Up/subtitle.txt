@@ -1,0 +1,27 @@
+In this module, we've covered the basic structures
+we can use to make the most of
+our Python scripts; strings, lists, and dictionaries. We've also called out a couple of associated data types
+like tuples and sets. Knowing your way around
+these structures lets you solve interesting
+problems with your programs. As we keep saying, the
+key to mastering them and knowing when to use one
+or the other is practice. The more you write scripts
+that use these concepts, the easier it will become to pick the right one when you need it. So how are you feeling? We just learned a lot
+of new concepts and it's totally normal to
+feel a little overwhelmed. If you're feeling confident
+that's awesome and if you're starting to think this is too hard for me
+I'll never get it, that's also completely normal. We all felt like that at some point when
+learning how to code. First off, you will get this. Second, if you're
+feeling a little iffy on any of the content
+we've covered so far, now is the time to
+re-watch the videos. Believe me, you'll be amazed by how much you've
+learned so far and a second review is
+usually all you need to understand what might seem
+a little tricky right now. Jobs in IT require
+problem-solving and perseverance. You wouldn't be here
+right now if you didn't have the grit to
+learn how to script. So stick with it. I promised you that it'll
+only get easier and easier. To wrap up, we've got a graded assessment
+to help you put all your new knowledge
+to the test. Take it once you feel ready to. Take your time and
+remember, you've got this.
